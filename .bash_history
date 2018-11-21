@@ -35,3 +35,4 @@ ls
 sudo -s
 ls
 su ravi
+firefox
